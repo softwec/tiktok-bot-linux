@@ -1,4 +1,3 @@
 requests
 prettytable
 colorama
-xdg-utils
